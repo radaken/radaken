@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @radaken
-- 👀 I’m interested in $$$
-- 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on $$$ projs
-- 📫 How to reach me [Telegram](https://iamradaken.t.me)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radaken&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
